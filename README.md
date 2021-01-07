@@ -76,5 +76,3 @@ slender. The male is more colorful and less black spots.  </P>
 
 
 
-
-</style>
